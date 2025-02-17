@@ -39,6 +39,7 @@ hr {
     height: 40vh;
     width: 40vw;
     background-color: #2c6f5d;
+    color:#e0e3d1;
     position: absolute;
     left: 50%;
     top: calc(8vh + 45%);
