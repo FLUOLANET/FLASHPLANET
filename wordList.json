@@ -1,202 +1,203 @@
-{
-  "1": {
+[
+  {
     "korean": "것",
     "english": "A thing or an object"
   },
-  "2": {
+  {
     "korean": "하다",
     "english": "To do"
   },
-  "3": {
+  {
     "korean": "있다",
     "english": "To be"
   },
-  "4": {
+  {
     "korean": "수",
     "english": "way, method, Number"
   },
-  "5": {
+  {
     "korean": "하다",
     "english": "To do"
   },
-  "6": {
+  {
     "korean": "나",
     "english": "I"
   },
-  "7": {
+  {
     "korean": "없다",
     "english": "Do not exist, absent"
   },
-  "8": {
+  {
     "korean": "않다",
     "english": "To not do"
   },
-  "9": {
+  {
     "korean": "사람",
     "english": "Person"
   },
-  "10": {
+  {
     "korean": "우리",
     "english": "we, our"
   },
-  "11": {
+  {
     "korean": "그",
     "english": "He, That"
   },
-  "12": {
+  {
     "korean": "아니다",
     "english": "To not be"
   },
-  "13": {
+  {
     "korean": "보다",
     "english": "To try"
   },
-  "14": {
+  {
     "korean": "거",
     "english": "thing"
   },
-  "15": {
+  {
     "korean": "보다",
     "english": "To see"
   },
-  "16": {
+  {
     "korean": "같다",
     "english": "To be similar"
   },
-  "17": {
+  {
     "korean": "주다",
     "english": "To give, to do for a person"
   },
-  "18": {
+  {
     "korean": "대하다",
     "english": "Face, confront"
   },
-  "19": {
+  {
     "korean": "가다",
     "english": "To go"
   },
-  "20": {
+  {
     "korean": "년",
     "english": "Year"
   },
-  "21": {
+  {
     "korean": "한",
     "english": "One, a single"
   },
-  "22": {
+  {
     "korean": "말",
     "english": "words, speaking"
   },
-  "23": {
+  {
     "korean": "일",
     "english": "Work"
   },
-  "24": {
+  {
     "korean": "이",
     "english": "A person, This"
   },
-  "25": {
+  {
     "korean": "말하다",
     "english": "Speak"
   },
-  "26": {
+  {
     "korean": "위하다",
     "english": "To do for the sake of"
   },
-  "27": {
+  {
     "korean": "그러나",
     "english": "However or but still"
   },
-  "28": {
+  {
     "korean": "오다",
     "english": "To come"
   },
-  "29": {
+  {
     "korean": "알다",
     "english": "To know"
   },
-  "30": {
+  {
     "korean": "씨",
     "english": "~ Mr."
   },
-  "31": {
+  {
     "korean": "그렇다",
     "english": "That is right or yes."
   },
-  "32": {
+  {
     "korean": "크다",
     "english": "To be big, large"
   },
-  "33": {
+  {
     "korean": "일",
     "english": "One day"
   },
-  "34": {
+  {
     "korean": "사회",
     "english": "culture, society"
   },
-  "35": {
+  {
     "korean": "많다",
     "english": "many, much"
   },
-  "36": {
+  {
     "korean": "안",
     "english": "~ not ~ + VERB"
   },
-  "37": {
+  {
     "korean": "좋다",
     "english": "To be good"
   },
-  "38": {
+  {
     "korean": "더",
     "english": "More"
   },
-  "39": {
+  {
     "korean": "받다",
     "english": "Receive"
   },
-  "40": {
+  {
     "korean": "그것",
     "english": "That thing"
   },
-  "41": {
+  {
     "korean": "집",
     "english": "House"
   },
-  "42": {
+  {
     "korean": "나오다",
     "english": "Come out"
   },
-  "43": {
+  {
     "korean": "그리고",
     "english": "And or and then"
   },
-  "44": {
+  {
     "korean": "문제",
     "english": "question, problem"
   },
-  "45": {
+  {
     "korean": "그런",
     "english": "Such a"
   },
-  "46": {
+  {
     "korean": "살다",
     "english": "To live"
   },
-  "47": {
+  {
     "korean": "저",
     "english": "That"
   },
-  "48": {
+  {
     "korean": "못하다",
     "english": "Be impossible"
   },
-  "49": {
+  {
     "korean": "생각하다",
     "english": "To think"
   },
-  "50": {
+  {
     "korean": "모르다",
     "english": "To not know"
   }
-}
+]
+
