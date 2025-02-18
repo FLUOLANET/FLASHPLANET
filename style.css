@@ -45,7 +45,42 @@ hr {
     top: calc(8vh + 45%);
     transform: translate(-50%, -50%);
     border-radius: 15px;
-    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#word {
     text-align: center;
-    line-height: 40vh;
+    font-size: 50px;
+}
+
+#lastButton {
+    position: absolute;
+    left: 0;
+    height: 35vh;
+    width: 7vw;
+    line-height: 35vh;
+    font-size: 50px;
+    margin-left: 5px;
+}
+
+#nextButton {
+    position: absolute;
+    right: 0;
+    height: 35vh;
+    width: 7vw;
+    line-height: 35vh;
+    font-size: 50px;
+    text-align: right;
+    margin-right: 5px;
+}
+
+#notBtnInCard {
+    background-color: rgba(0, 0, 0, 0);
+    height: 40vh;
+    width: 26vw;
+    display: flex;
+    align-items:center;
+    justify-content: center;
 }
