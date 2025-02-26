@@ -84,3 +84,16 @@ hr {
     align-items:center;
     justify-content: center;
 }
+
+#loginModal-outer {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 100%;
+    display: none;
+}
+
+#loginModal-inner {
+    background-color: white;
+    height: 50vh;
+    width: 50vw;
+}
